@@ -1,7 +1,7 @@
 # ara_ustc
 Advanced Real Analysis, USTC, 2018 Fall
 
-课程公告：
+课程公告：发现兴趣，生活愉快！
 
 课程信息：
 
