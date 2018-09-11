@@ -1,9 +1,9 @@
 # ara_ustc
 Advanced Real Analysis, USTC, 2018 Fall
 
-*课程公告：发现兴趣，生活愉快！
+* 课程公告：发现兴趣，生活愉快！
 
-*课程信息：
+* 课程信息：
 
   *授课老师：张安 主页：https://sites.google.com/site/ananthonyzhang
 
