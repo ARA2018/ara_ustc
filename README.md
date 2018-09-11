@@ -18,3 +18,12 @@ Advanced Real Analysis, USTC, 2018 Fall
 作业：TBA
 
 习题课：TBA
+
+some useful links：
+
+book downloading:http://b-ok.org/
+
+historic information about this course:http://home.ustc.edu.cn/~yx3x/TA.html
+
+
+
