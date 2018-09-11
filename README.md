@@ -5,7 +5,7 @@ Advanced Real Analysis, USTC, 2018 Fall
 
 * 课程信息：
 
-  * 授课老师：张安 主页：https://sites.google.com/site/ananthonyzhang
+  * 授课老师：张安 [个人主页](https://sites.google.com/site/ananthonyzhang)
 
   * 授课时间地点：5306：2晚上，5306：5(8,9)
 
@@ -24,6 +24,13 @@ Advanced Real Analysis, USTC, 2018 Fall
     [book downloading](http://b-ok.org/)
 
     [historical information about this course](http://home.ustc.edu.cn/~yx3x/TA.html)
+    
+    [科大数院学术报告](http://math.ustc.edu.cn/new/list.php?fid=35)
+    
+    [学术报告历史视频](http://wlkt.ustc.edu.cn/)
+    
+    
+    
 
 
 
