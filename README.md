@@ -9,7 +9,7 @@ Advanced Real Analysis, USTC, 2018 Fall
 
   * 授课时间地点：5306：2晚上，5306：5(8,9)
 
-  * 助教1：张俊升 Email：TBA
+  * 助教1：张俊升 Email：zjs2015@mail.ustc.edu.cn 电话：18756979897
 
   * 助教2：刘俊邦 Email：junbliu@mail.ustc.edu.cn 电话：18269785232
 
