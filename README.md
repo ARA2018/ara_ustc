@@ -21,9 +21,9 @@ Advanced Real Analysis, USTC, 2018 Fall
 
   * some useful links：
 
-    book downloading:http://b-ok.org/
+    [book downloading](http://b-ok.org/)
 
-    historical information about this course:http://home.ustc.edu.cn/~yx3x/TA.html
+    [historical information about this course](http://home.ustc.edu.cn/~yx3x/TA.html)
 
 
 
