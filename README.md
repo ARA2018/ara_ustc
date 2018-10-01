@@ -6,7 +6,7 @@ Advanced Real Analysis, USTC, 2018 Fall
 * 课程信息：
 
   * 课程简介：This course is to introduce the basic concepts and techniques in Real Analysis. We try to incorporate some results about several important geometric and functional inequalities in Analysis & PDE, after introducing some measure theory, L^p space theory and Fourier transform. Surely, rearrangement inequalities will be studied, which plays an important role in many extremal problems.
-  * 授课老师：张安 [个：人主页](https://sites.google.com/site/ananthonyzhang)
+  * 授课老师：张安 [个人主页](https://sites.google.com/site/ananthonyzhang)
 
   * 授课时间地点：5306：2晚上，5306：5(8,9)
 
